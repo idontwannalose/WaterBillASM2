@@ -1,0 +1,11 @@
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\bin\Debug\WaterBill ASM2.exe.config
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\bin\Debug\WaterBill ASM2.exe
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\bin\Debug\WaterBill ASM2.pdb
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill ASM2.csproj.AssemblyReference.cache
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill_ASM2.Properties.Resources.resources
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill ASM2.csproj.GenerateResource.cache
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill ASM2.csproj.CoreCompileInputs.cache
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill ASM2.exe
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill ASM2.pdb
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill_ASM2.Form2.resources
+C:\Users\khain\source\repos\WaterBill ASM2\WaterBill ASM2\obj\Debug\WaterBill_ASM2.ManageBill.resources
